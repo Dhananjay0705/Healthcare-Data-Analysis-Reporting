@@ -371,8 +371,7 @@ Understand how admissions fluctuate over time, identify peak periods, and drill 
 
 ## 👨‍💻 11. Author <a name="11-author"></a>
 
-**Chandra Shekar Devarasetti**    
-Data Scientist | Data Science Enthusiast  
+**Shruti Singh**      
 
 - 📧 Email: [shrutis02170@gmail.com](mailto:shrutis02170@gmail.com)
 - 🌐 LinkedIn: [Shruti_LinkedIn](https://www.linkedin.com/in/shruti-singh-0aaa47288/)
