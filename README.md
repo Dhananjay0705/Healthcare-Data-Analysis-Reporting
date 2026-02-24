@@ -36,7 +36,6 @@
     &nbsp;&nbsp;&nbsp;&nbsp; 10.3 [Billing & Insurance Analysis](#103-billing--insurance-analysis)  
     &nbsp;&nbsp;&nbsp;&nbsp; 10.4 [Doctor & Hospital Performance](#104-doctor--hospital-performance)  
     &nbsp;&nbsp;&nbsp;&nbsp; 10.5 [Time-Based Analysis](#105-time-based-analysis)
-12. [License](#12-license)
 
 
 
@@ -367,12 +366,6 @@ Understand how admissions fluctuate over time, identify peak periods, and drill 
 ![Time_Based_Daily](Images/Time_Based_Dashboard_Daily.png)
 
 ![Patient_Details_Drillthorugh](Images/Patient_Details_Drilltrough.png)
-
-
-
-## 12. License <a name="12-license"></a>
-
-This project is licensed under the [MIT License](LICENSE).
 
 
 
